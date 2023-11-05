@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deepak_cv</title>
+</head>
+<body style="background-color: rgb(215, 215, 215);">
+  <div style="height:100px; width:60%">
+    <img src="photo.jpeg" alt="" style="float:left; border-radius: 50%;">
+    <br>
+    <h1 style="position: relative; left:20px">Deepak S</h1>
+    <h2 style="position: relative; left:20px">Student</h2> 
+  </div>
+
+  <div style="margin-left:60% ; height:100px;position:relative; top:-60px">
+    <p style="text-align:left;">
+      <b>Email</b><br>
+      adabs676@gmail.com <br>
+      <b>Phone</b><br>
+      8925032631 <br>
+      <b>Date of birth</b> <br>
+      11 Sep 2003 <br>
+      
+    </p>
+  </div>
+
+  <hr style="height: 3px; background-color: rgb(0, 0, 0);">
+
+  <div style="height:100px">
+
+    <h2 style="float:left; color: rgb(0, 0, 0);">Personal profile</h2>
+    <p  style="font-size: large;position: relative; left:300px ; width:900px">
+      I am Deepak,an univeristy student pursuing 3rd year in Btech-Cse(IoT).
+      I chose this stream over other just cause i have a lot of interest in computer science and the technology behind it from my early ages.
+      Im a motivated student experienced in serving others. Has proven customer service, organization, and communication skills. Familiar with best practices for serving and willing to learn.
+    </p>
+  </div>
+  <hr>
+  <div style="height:190px; float:left;" >
+    <h2 style="float:left; color: rgb(0, 0, 0);">Experience</h2>
+  </div>
+
+  <div style="width: 310px; position:relative;  left:350px;">
+    <ul>
+      <li>
+          <p style="font-size: large;"><b>Object detection Glasses</b></p>
+          <p style="width:700px;font-size: large;">
+          Created a program using computer vision to detect daily objects and convey the same to the user.
+          </p>
+      </li>
+
+      <li>
+          <p style="font-size: large;"><b>Line following robot</b></p>
+          <p style="width:700px;font-size: large;">
+          Made a robot that can track a line and follow so that we can use it to automate various things like transporting etc... 
+          This helps in various domains to help reduce the human interaction.
+          </p>
+      </li>
+  </ul>
+
+  </div>
+  <hr>
+  <div style="height:130px; float:left;" >
+    <h2 style="float:left; color: rgb(0, 0, 0);">Key Skills</h2>
+  </div>
+
+  <div style="width: 310px; position:relative;  left:365px;">
+    <ul>
+      <li style="font-size: large;">Amazon Web services</li>
+      <li style="font-size: large;">Python</li>
+      <li style="font-size: large;">C</li>
+      <li style="font-size: large;">Web Dev</li>
+      <li style="font-size: large;">DBMS</li>
+      <li style="font-size: large;">R Language</li>
+  </ul>
+
+  </div>
+  <br>
+  <hr>
+
+  <div style="height:370px; float:left;" >
+    <h2 style="float:left; color: rgb(0, 0, 0);">Education</h2>
+  </div>
+
+  <div style="width: 310px; position:relative;  left:365px;">
+    <ul>
+      <li>
+          <p style="font-size: large;">B tech CSE(IoT)</p>
+          <p style="color: rgb(0, 0, 0);font-size: large;">Shiv Nadar University</p>
+      </li>
+      <hr>
+      <li>
+          <p style="font-size: large;">Srimathi Sundaravalli Memorial</p>
+          <p style="color:rgb(0, 0, 0);font-size: large;">CBSE</p>
+          <p style="font-size: large;">92.6% scored in 12th std</p>
+      </li>
+          
+      <hr>
+      <li>
+        <p style="font-size: large;">Srimathi Sundaravalli Memorial</p>
+        <p style="color:rgb(0, 0, 0);font-size: large;">CBSE</p>
+        <p style="font-size: large;">  92.8% scored in 10th std</p>    
+      </li>
+  </ul>
+  </div>
+  <hr>
+  <div style="height:80px; float:left;" >
+    <h2 style="float:left; color: rgb(0, 0, 0);">Other interest/hobbies</h2>
+  </div>
+
+  <div style="width: 200px; position:relative;  left:365px;">
+    <ul>
+      <li style="font-size: large;">Gaming</li>
+      <li style="font-size: large;">Sports</li>
+      <li style="font-size: large;">Book reading</li>
+      <li style="font-size: large;">Reading news</li>
+      <li style="font-size: large;">Cycling</li>
+  </ul>
+
+  </div>
+
+
+</body>
+</html>
